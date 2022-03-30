@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 [Vishal](https://vishalsehgal.dev) here 👨‍💻
+
+![Profile views](https://gpvc.arturio.dev/CoderVishalSehgal)
+
+ >### _"If you love technology, why aren't you coding?"_
 
 <!--
 **CoderVishalSehgal/CoderVishalSehgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
