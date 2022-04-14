@@ -1,4 +1,4 @@
-### Hi there 👋 [Vishal](https://vishalsehgal.dev) here 👨‍💻
+### Hi there 👋 Vishal here 👨‍💻
 
 ![Profile views](https://gpvc.arturio.dev/CoderVishalSehgal)
 
