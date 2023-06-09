@@ -1,6 +1,6 @@
 ### Hi there 👋 Vishal here 👨‍💻
 
-![Profile views](https://gpvc.arturio.dev/vishal-sehgal)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-sehgal&label=Views&color=blue&style=plastic" alt="vishal-sehgal" /> </p>
 
  >### _"If you love technology, why aren't you coding?"_
 
