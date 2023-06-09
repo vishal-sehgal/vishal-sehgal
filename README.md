@@ -1,6 +1,6 @@
 ### Hi there 👋 Vishal here 👨‍💻
 
-![Profile views](https://gpvc.arturio.dev/CoderVishalSehgal)
+![Profile views](https://gpvc.arturio.dev/vishal-sehgal)
 
  >### _"If you love technology, why aren't you coding?"_
 
