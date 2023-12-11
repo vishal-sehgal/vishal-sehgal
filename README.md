@@ -8,12 +8,6 @@
 
  >### _"If you love technology, why aren't you coding?"_
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
 
 - 🌱 I’m exploring the potential of [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) and enhancing my [Android Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAiAg9urBhB_EiwAgw88mbINIrUt-BHj38UG8Jya502ATl0EnBXnjnymzoviNeteE4YUtmHqnhoCPf0QAvD_BwE&gclsrc=aw.ds) expertise - join me on this journey!
 - 👯 I’m looking to collaborate on ...
@@ -22,6 +16,13 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vishallsehgal/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I'm either strumming my guitar🎸 or revving my motorcycle 🏍️ engine, always seeking adventure⛰️🌞🌤, be it on the road or in a 🎶melody.
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 <!--
 **CoderVishalSehgal/CoderVishalSehgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
