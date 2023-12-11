@@ -10,8 +10,6 @@
 
 
 - 🌱 I’m exploring the potential of [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) and enhancing my [Android Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAiAg9urBhB_EiwAgw88mbINIrUt-BHj38UG8Jya502ATl0EnBXnjnymzoviNeteE4YUtmHqnhoCPf0QAvD_BwE&gclsrc=aw.ds) expertise - join me on this journey!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Android and Kotlin-related stuff
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vishallsehgal/)
 - 😄 Pronouns: He/Him
