@@ -1,6 +1,6 @@
 ### Hi there 👋 Vishal here 👨‍💻
 
-<img src="https://github.com/vishal-sehgal/vishal-sehgal/assets/20669217/ecf2f37c-d137-4e74-a72d-1fc537f0a0c2" alt="Hello world">
+<img src="https://github.com/vishal-sehgal/vishal-sehgal/assets/20669217/f541506c-1702-4c8a-8c97-c75f700dbc32" alt="Hello world">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-sehgal&label=Views&color=blue&style=plastic" alt="vishal-sehgal" /> </p>
 
